@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/couch_potato/static/css/main.cb9d7bb1.css",
+    "main.css": "/couch_potato/static/css/main.d06267ea.css",
     "main.js": "/couch_potato/static/js/main.440adb22.js",
     "static/js/787.f1ca776f.chunk.js": "/couch_potato/static/js/787.f1ca776f.chunk.js",
     "static/media/cryptex.png": "/couch_potato/static/media/cryptex.e62aa2940eea24127377.png",
@@ -19,12 +19,12 @@
     "static/media/quizzo.png": "/couch_potato/static/media/quizzo.c72fd5e1d2f40b611b78.png",
     "index.html": "/couch_potato/index.html",
     "static/media/github.svg": "/couch_potato/static/media/github.fa0212feed6209411b9a404032ec7e8f.svg",
-    "main.cb9d7bb1.css.map": "/couch_potato/static/css/main.cb9d7bb1.css.map",
+    "main.d06267ea.css.map": "/couch_potato/static/css/main.d06267ea.css.map",
     "main.440adb22.js.map": "/couch_potato/static/js/main.440adb22.js.map",
     "787.f1ca776f.chunk.js.map": "/couch_potato/static/js/787.f1ca776f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb9d7bb1.css",
+    "static/css/main.d06267ea.css",
     "static/js/main.440adb22.js"
   ]
 }
